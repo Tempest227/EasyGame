@@ -1,1 +1,1 @@
-# EasyGame
+### This is a repo that contains the easy games I program while learning C/Cpp.
